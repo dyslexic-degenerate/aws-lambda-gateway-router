@@ -1,0 +1,9 @@
+name: aws-lambda-gateway-router
+version: 0.1.0
+
+authors:
+  - Dyslexic Degenerate
+
+crystal: 1.0.0
+
+license: MIT
